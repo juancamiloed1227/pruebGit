@@ -11,3 +11,7 @@ _Esto debería estar en italic._
 El repositorio de Cesar [dale click](https://github.com/cmuribe/claseGit).
 
 > Esto es una cita (creo).
+```
+console.log('Hola Mundo');
+
+``` 
