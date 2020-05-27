@@ -6,7 +6,7 @@
 
 **Esto debe de ir en negrita**
 
-_Esto deberia estar en italic._ 
+_Esto debería estar en italic._ 
 
 El repositorio de Cesar [dale click](https://github.com/cmuribe/claseGit).
 
